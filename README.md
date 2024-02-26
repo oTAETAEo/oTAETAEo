@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **oTAETAEo/oTAETAEo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=200&text=Hi%20there&fontColor=483D8B)
 
+### Hello Welcome my GitHud😊
+  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">   
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oTAETAEo)](https://github.com/anuraghazra/github-readme-stats)

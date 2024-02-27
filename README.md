@@ -15,23 +15,22 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&text=Hi%20there👏&fontColor=483D8B)
 
-
-<pre>
-
 <div align=center> 
-<h1>Hello Welcome my GitHud😊
+<h1>Hello Welcome my GitHud😊   </h1>  
+<br>
 </div>
   
-<h2 align="center"> ✨ Tech Stack ✨</h2>
-<div align="center"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-  </div>
-<div align=center> <h2> Contacts🏳‍🌈</h2>
-  <div align="center"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> </div>
+<div align="center"> 
+  <h2>✨ Tech Stack ✨ </h2>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  
+  <h2> Contacts🏳‍🌈</h2>   
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 
 
-</pre>
+
 
 
 

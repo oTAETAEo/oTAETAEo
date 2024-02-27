@@ -22,16 +22,10 @@ Here are some ideas to get you started:
 <h1>Hello Welcome my GitHud😊
 </div>
   
-<h2 align="center">
-  ✨ Tech Stack ✨</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-</div>
-<div align=center> 
-<h2>Contacts🏳‍🌈
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</div>
+<h2 align="center"> ✨ Tech Stack ✨</h2>
+<div align="center"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<div align=center> <h2> Contacts🏳‍🌈
+  <div align="center"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> </div>
 
 
 
